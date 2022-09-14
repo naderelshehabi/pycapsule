@@ -1,0 +1,2 @@
+# pycapsule
+Capsulated IPython capsule
